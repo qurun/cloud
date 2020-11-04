@@ -1,6 +1,7 @@
 package com.qf.cloud.dao;
 
 import com.qf.cloud.common.dto.CartDto;
+import com.qf.cloud.entity.Cart;
 import org.apache.ibatis.annotations.Insert;
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
